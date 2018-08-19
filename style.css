@@ -1,0 +1,19 @@
+body *{
+    padding: 0px;
+    margin: 0px;
+}
+    #container {
+        width: 450px;
+        min-height: auto;
+    }
+        #ninja-cat {
+            width: 420px;
+            min-height: auto;
+            display: inline-block;
+        }
+        #ninja-cat img {
+            width: 400px;
+            min-height: auto;
+        }
+        
+
